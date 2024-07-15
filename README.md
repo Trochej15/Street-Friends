@@ -1,4 +1,4 @@
-# Street-
+# Street-Friends
 
 Project Outline 
 Street Friends
